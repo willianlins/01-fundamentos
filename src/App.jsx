@@ -18,7 +18,7 @@ const posts = [
     content: [
       { type: 'paragraph', content: 'Fala galera 👏' },
       { type: 'paragraph', content: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto sint quibusdam accusamus qui. Rerum laborum eaque rem, porro fugit magnam sequi facilis a itaque aut? Vero explicabo consectetur alias voluptate.' },
-      { type: 'link', content: '#' }
+      { type: 'link', content: 'Link-parsa' }
     ],
     publishAt: new Date('2023-05-03 20:00:00'),
   },
@@ -32,7 +32,7 @@ const posts = [
     content: [
       { type: 'paragraph', content: 'Fala galera 👏' },
       { type: 'paragraph', content: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto sint quibusdam accusamus qui. Rerum laborum eaque rem, porro fugit magnam sequi facilis a itaque aut? Vero explicabo consectetur alias voluptate.' },
-      { type: 'link', content: '#' }
+      { type: 'link', content: 'eo-pix' }
     ],
     publishAt: new Date('2023-11-14 16:00:00'),
   }
